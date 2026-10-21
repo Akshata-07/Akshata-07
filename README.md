@@ -1,5 +1,5 @@
 # 💫 About Me:
-* DevOps & Cloud Engineer working with AWS and cloud-native technologies<br>* Skilled in CI/CD (Jenkins, GitHub), Docker, Kubernetes (EKS), and Terraform<br>* Strong foundation in Linux, automation scripting, monitoring, and observability<br>* Currently working on cloud infrastructure, containerized applications, and CI/CD pipelines<br>* 2 years of hands-on experience with real-world DevOps projects<br>
+* DevOps & Cloud Engineer working with AWS and cloud-native technologies<br>* Skilled in CI/CD (Jenkins, GitHub), Docker, Kubernetes (EKS), and Terraform<br>* Strong foundation in Linux, automation scripting, monitoring, and observability<br>* Currently working on cloud infrastructure, containerized applications, and CI/CD pipelines<br>* 3 years of hands-on experience with real-world DevOps projects<br>
 
 
 ## 🌐 Socials:
