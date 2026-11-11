@@ -45,7 +45,7 @@
 
 ## 🚀 Featured Project
 
-### ☁️ Cloud-Native CI/CD and GitOps Platform on AWS EKS
+### ☁️ Kubernetes GitOps Platform on AWS EKS with Automated CI/CD, Monitoring & Logging
 
 An end-to-end project exploring cloud infrastructure, CI/CD automation, Kubernetes deployments, GitOps, and observability.
 
